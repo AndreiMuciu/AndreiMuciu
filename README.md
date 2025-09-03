@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Web Full-Stack Egineer
 -----------------------------
 
-I'm a student in 3rd year at University Polytechnic from Timisoara in 3rd year of study in computer science. I consider myself a curious person, I like to explore and discover new skills that can help me progress in the future. I am an open person, I like to discuss and work with new people. I have a great passion for programming, I like to work on a project to reach the satisfaction of achieving the long-awaited final result. "Insanity is doing the same thing over and over again and expecting different results."
+I'm a student at University Polytechnic from Timisoara in 4th year of study in computer science. I consider myself a curious person, I like to explore and discover new skills that can help me progress in the future. I am an open person, I like to discuss and work with new people. I have a great passion for programming, I like to work on a project to reach the satisfaction of achieving the long-awaited final result. "Insanity is doing the same thing over and over again and expecting different results."
 
 * 🌍  I'm based in Timisoara, Romania, European Union
 * 🖥️  See my portfolio at [Me](http://andreimucioniu.netlify.app/)
